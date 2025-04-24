@@ -52,7 +52,7 @@ python main.py --image ./data/chessboard.png --output ./outputs/output_image.png
 ## Skewed Image
 If the image is skewed first apply perspective transformation. Then use the corrected image in the main function. 
 ```bash
-python perspective_trasformation.py --input ./data/skewed_image.png
+python perspective_transformation.py --input ./data/skewed_image.png
 ```
 ## License
 
