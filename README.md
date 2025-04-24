@@ -48,7 +48,7 @@ python main.py --image path_to_image --output path_to_output
 ```bash
 python main.py --image ./data/chessboard.png --output ./outputs/output_image.png
 ```
-## For distorted image run the code in the notebook foolowing the steps
+## For distorted image run the code in the notebook following the steps
 ## Skewed Image
 If the image is skewed first apply perspective transformation. Then use the corrected image in the main function. 
 ```bash
