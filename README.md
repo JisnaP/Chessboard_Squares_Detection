@@ -22,8 +22,8 @@ This project provides a modular implementation for detecting and counting white 
 
 ```bash
 # Clone the repository (if applicable)
-git clone https://github.com/yourusername/chess-board-detection.git
-cd chess-board-detection
+git clone https://github.com/JisnaP/Chessboard_Squares_Detection.git
+cd Chessboard_Squares_Detection
 
 # Install required packages
 pip install -r requirements.txt
