@@ -55,7 +55,8 @@ If the image is skewed first apply perspective transformation. Then use the corr
 python perspective_transformation.py --input ./data/skewed_image.png
 ```
 **Note**
-For this ![partialchessboard image](https://github.com/JisnaP/Chessboard_Squares_Detection/blob/main/data/partialchessboard.png) approximation using rectangles is not detecting incomplete squares.It detects full squares perfectly. Approximation using Convex hull detects the border black edges as well which gives incorrect counts for black squares. 
+![partialchessboard image](https://github.com/JisnaP/Chessboard_Squares_Detection/blob/main/data/partialchessboard.png) 
+For the above image approximation using rectangles is not detecting incomplete squares.It detects full squares perfectly. Approximation using Convex hull detects the border black edges as well which gives incorrect counts for black squares. 
 
 ## License
 
